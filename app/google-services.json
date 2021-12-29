@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055514212614",
+    "firebase_url": "https://sekripsi-84598.firebaseio.com",
+    "project_id": "sekripsi-84598",
+    "storage_bucket": "sekripsi-84598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055514212614:android:289b7c6176d4fb16",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.www.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055514212614-hp7ti15kom5oudejdvs1pgif3acfm7iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.ukdw.www.tiketsaya",
+            "certificate_hash": "d58bfbbc7967e7eebe5e3a60398bcfd9cd3b7f2f"
+          }
+        },
+        {
+          "client_id": "1055514212614-dip6gai539mud05sd3kdtrlfltb0etcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5vnUeCK0LaV3Mq1iVSr_3216R1a0b6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055514212614-dip6gai539mud05sd3kdtrlfltb0etcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

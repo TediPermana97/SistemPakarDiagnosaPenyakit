@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Deteksi Penyakit Kulit Anak</string>
+    <string name="slogan">Selamat Datang</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="next">CONTINUE</string>
+    <string name="bio">Bio</string>
+    <string name="name_label">Name</string>
+    <string name="explore">Lewati</string>
+    <string name="buy_ticket_label">BUY TICKET</string>
+    <string name="pay_label">PAY NOW</string>
+    <string name="view_ticket_label">VIEW TICKETS</string>
+    <string name="dashboard_label">MY DASHBOARD</string>
+    <string name="sign_out_label">SIGN OUT</string>
+    <string name="edit_profile_label">EDIT PROFILE</string>
+    <string name="refund_label">REFUND NOW</string>
+    <string name="save_profile_label">SAVE PROFILE</string>
+
+    <string name="splash_text">Sistem Pakar Deteksi Penyakit Kulit Anak</string>
+    <string name="btn_mulai_diagnosa">Mulai Diagnosa</string>
+    <string name="btn_daftar_penyakit">Daftar Penyakit</string>
+    <string name="btn_tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="btn_hasil_diagnosa">Hasil Diagnosa</string>
+    <string name="tv_gejala_dipilih">Gejala yang dipilih</string>
+    <string name="tv_anak_anda">Anak anda kemungkinan mengalami</string>
+    <string name="btn_diagnosa_ulang">Diagnosa Ulang</string>
+    <string name="btn_lihat_daftar_penyakit">Lihat Daftar Penyakit</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="penanganan">Penanganan</string>
+    <string name="tentang">Aplikasi Sistem Pakar THT Anak ini dibuat guna memenuhi sebagian persyaratan mencapai gelar Sarjana S1 pada jurusan Informatika Univeritas Amikom Yogyakarta. \n\nNama\t\t: Dedy Surya Prihantoro\nNIM\t\t\t: 16.11.0563\nProdi\t\t\t: Informatika\n\nDosen Pembimbing\t: Arif Dwi Laksito M.Kom \n\nPakar\t: dr. H. Makmuridin Gofur Sp.THT  </string>
+
+</resources>
