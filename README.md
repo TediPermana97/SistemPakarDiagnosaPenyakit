@@ -1,2 +1,3 @@
-# TiketSayaExperiment
-Aplikasi pembelian tiket wisata, dibangun menggunakan java dan xml serta firebase sebagai data center. Materi didapatkan dari https://www.buildwithangga.com
+Sistem Pakar Diagnosa Penyakit menggnakan android studio dan bahasa program javadan xml dengan menggunakan dua database yaitu :
+1. firebase console 
+2. SqlLite
